@@ -1,0 +1,5 @@
+id,firstName,lastName,emailAddress,password,type
+d7358f43-cc52-4a7d-905e-589a25c5d0ba,Hamza,Hassan,hamzahassan012@gmail.com,1234,admin
+876d8950-24f8-47d0-b5ed-bfc103172e80,Alex,Hales,alexh@gmail.com,1234,customer
+dddcf5e0-6803-48c5-9b95-c2b0069d4010,William,Parambil,william@gmail.com,1234,officer
+59664ad6-7542-49d9-8faf-0ae362d1e850,Alex,Rames,alex@gmail.com,1234,officer
